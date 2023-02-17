@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-* main - Entry point
-* 
-* Return: Always 0 (Success)
+* main - Prints "with proper grammar, but the outome is
+* a piece of art," followed by a new line.
+* Return: Always 0.
 */
 int main(void)
 {
